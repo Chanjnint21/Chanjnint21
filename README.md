@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chanjnint Lim.</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?size=17&duration=5807&color=6ABEFF&lines=When+nothing+goes+right%2C+go+left.;Impossible+is+for+the+unwilling.;Take+the+risk+or+lose+the+chance.;If+you+want+it%2C+work+for+it.;If+you%E2%80%99re+going+through+hell%2C+keep+going.;Fall+seven+times%2C+stand+up+eight.;Failure+is+success+if+we+learn+from+it.;And+so%2C+The+adventure+begin..."&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 <h3 align="center">A first year student in Information Technology Engineering of Royal University of Phnom Penh and Software Development of E2stem Higher Diploma.</h3>
 
