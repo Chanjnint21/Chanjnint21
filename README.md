@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chanjnint Lim.</h1>
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=15&duration=6000&color=6ABEFF&lines=When+nothing+goes+right%2C+go+left.;Impossible+is+for+the+unwilling.;%22Take+the+risk+or+lose+the+chance.;If+you+want+it%2C+work+for+it.;If+you%E2%80%99re+going+through+hell%2C+keep+going.;Fall+seven+times%2C+stand+up+eight.;Failure+is+success+if+we+learn+from+it.;And+so%2C+The+adventure+begin..." alt="Typing SVG" /></a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=15&duration=6000&color=6ABEFF&center=true&vCenter=true&lines=When+nothing+goes+right%2C+go+left.;Impossible+is+for+the+unwilling.;%22Take+the+risk+or+lose+the+chance.;If+you+want+it%2C+work+for+it.;If+you%E2%80%99re+going+through+hell%2C+keep+going.;Fall+seven+times%2C+stand+up+eight.;Failure+is+success+if+we+learn+from+it.;And+so%2C+The+adventure+begin..." alt="Typing SVG" /></a>
 <h3 align="center">A first year student in Information Technology Engineering of Royal University of Phnom Penh and Software Development of E2stem Higher Diploma.</h3>
 
 - 🌱 I’m currently learning **Python, Html, C and C# program.**
