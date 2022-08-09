@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **I think I am not funny at all.**
 
-- 👨‍💻 My Personal Website `[https://chanjnint21.github.io/JnintChan/](https://chanjnint21.github.io/JnintChan/)`
+- 👨‍💻 My Personal Website <a href="https://chanjnint21.github.io/JnintChan/"> Click Here</a>
 
 
 <h3 align="left">Connect with me:</h3>
