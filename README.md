@@ -12,6 +12,7 @@
 
 - 👨‍💻 My Personal Website <a href="https://chanjnint21.github.io/JnintChan/"> Click Here</a>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,8 +25,4 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Chanjnint21&theme=chartreuse-dark"/>
-  <br>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
