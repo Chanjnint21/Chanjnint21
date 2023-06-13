@@ -7,7 +7,9 @@
 
 - ⚡ Fun fact **I think I am not funny at all.**
 
-- 👨‍💻 My Personal Website V1 <a href="https://chanjnint21.github.io/JnintChan/"> Click Here</a>
+- 👨‍💻 My Portfolio Site :
+- Ver1 <a href="https://chanjnint21.github.io/JnintChan/"> Click Here</a>
+- Ver2 <a href="https://jnint-portfolio-v2.onrender.com/"> Click Here</a> (In Progress)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
