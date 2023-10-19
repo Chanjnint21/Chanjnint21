@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Chanjnint Lim.</h1>           
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=15&duration=5807&color=6ABEFF&center=true&vCenter=true&lines=When+nothing+goes+right%2C+go+left.;You+can%E2%80%99t+blame+gravity+for+falling+in+love.;Take+the+risk+or+lose+the+chance.;If+you+want+it%2C+work+for+it.;Fall+seven+times%2C+stand+up+eight.;You+have+to+be+odd+to+be+number+one.;Stars+can%E2%80%99t+shine+without+darkness.;You+are+enough+just+as+you+are.;Impossible+is+for+the+unwilling.;And+so%2C+The+adventure+begin..." alt="Typing SVG" /></a>
 </p>
